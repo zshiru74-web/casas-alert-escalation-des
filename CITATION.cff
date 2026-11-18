@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Responsibility-based alert escalation for older adults living alone: simulation code"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+authors:
+  - family-names: "Zhao"
+    given-names: "Shiru"
+    affiliation: "Daegu University"
+    orcid: "https://orcid.org/0009-0005-9091-9698"
+repository-code: "https://github.com/zshiru74-web/casas-alert-escalation-des"
